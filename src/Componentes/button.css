@@ -1,0 +1,33 @@
+.btns{
+    width: 120px;
+    height:50px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #111729;
+    border-radius: 8px;
+}
+.link_btn{
+    width: 50%;
+    height:100%;
+    background-image: url("../assets/link.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #111729;
+    border: 3px solid #20293A;
+    border-radius: 0px 8px    8px 0px;
+    padding: 10px;
+}
+.regroup_btn{
+    width: 50%;
+    height:100%;
+    background-image: url("../assets/Regroup.svg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #111729;
+    border: 3px solid #20293A;
+    border-radius: 8px  0px 0px 8px;
+    border-right: none;
+  
+}

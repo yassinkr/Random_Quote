@@ -1,0 +1,22 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+*{
+  padding: 0pxS;
+  margin: 0px;
+}
+  :root{
+    font-family: 'Outfit', sans-serif;
+    background-color: #111729;
+    width: 100%;
+    height: 100vh;
+  
+  }
+  .app{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
